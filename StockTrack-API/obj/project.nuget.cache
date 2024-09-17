@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9GQivVh9z0=",
+  "success": false,
+  "projectFilePath": "D:\\Leonardo 3DS\\StockTrack\\StockTrack-API\\StockTrack-API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer"
+    }
+  ]
+}
